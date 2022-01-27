@@ -17,7 +17,7 @@
     "mapbox-gl": "^1.10.1",
     "querystring": "^0.2.0",
     "supercluster": "^7.1.0",
-    "three": "^0.117.1",
+    "three": "^0.137.0",
     "vue": "^2.6.11",
     "vue-circle-menu": "^1.1.1",
     "vue-router": "^3.1.6",
